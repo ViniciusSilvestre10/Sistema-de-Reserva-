@@ -60,4 +60,8 @@ public class ReservaService {
 
         return;
     }
+
+    public void testeReserva(){
+        return;
+    }
 }
